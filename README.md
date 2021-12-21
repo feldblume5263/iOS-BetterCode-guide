@@ -1,6 +1,8 @@
-# 📏📐 AutoLayout_Course_Inflearn 📏📐
+# 📏📐 AutoLayout_Guide 📏📐
 <br></br>
 ## Summary
-Inflearn Auto Layout Course Practice **by feldblume5263**
+Auto Layout Guide **by feldblume5263**
+
+### [1. Equal Constraints](https://hasensprung.tistory.com/99)
 
 
