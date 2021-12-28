@@ -1,9 +1,9 @@
 # Swift UIKit development guide
 <br></br>
 ## 💡 Summary
-Swift UIKit development guide **by feldblume5263**
-[Auto Layout]
-[Object Oriented Programming]
+Swift UIKit development guide **by feldblume5263**</br>
+[Auto Layout]</br>
+[Object Oriented Programming]</br>
 <br></br>
 ## 💡 Chapter
 ### 🍎 Auto Layout
