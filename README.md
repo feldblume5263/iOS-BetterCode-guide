@@ -3,7 +3,7 @@
 ## 💡 Summary
 Swift UIKit development guide **by feldblume5263**</br>
 [Auto Layout]</br>
-[Object Oriented Programming]</br>
+[Object Oriented]</br>
 <br></br>
 ## 💡 Chapter
 ### 🍎 Auto Layout
