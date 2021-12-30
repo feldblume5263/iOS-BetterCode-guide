@@ -1,7 +1,8 @@
-# 🐣 Swift-UIKit-guide
+# 🐣 iOS-guide
 <br></br>
 ## 💡 Summary
-Swift UIKit development guide **by feldblume5263**</br>
+Swift를 개발하면서, 더 좋은 개발자가 되기 위한 가이드입니다.</br>
+현재는 UIKit만이 대상이지만, 추후에 Swift UI로 확장해나갈 계획입니다.
 </br>
 [Auto Layout]</br>
 [Object Oriented]</br>
