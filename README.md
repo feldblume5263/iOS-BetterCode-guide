@@ -12,7 +12,7 @@ Swift를 개발하면서, 더 좋은 개발자가 되기 위한 가이드입니�
 
 ### 🍎 객체지향 생활체조 원칙 9가지(소트워크 앤솔러지)
 #### [개관](https://hasensprung.tistory.com/103)
-ㅇ
+
 ### 🍎 오토레이아웃
 #### [Equal Constraints](https://hasensprung.tistory.com/99)
 #### [Multiplier - 1](https://hasensprung.tistory.com/100)
